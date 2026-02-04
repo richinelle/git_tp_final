@@ -2,7 +2,7 @@
 
 ## Explication du TP
 
-Bienvenue sur le README du TP final de votre cours d'initiation à Git et Github !
+Bienvenu sur le README du TP final de votre cours d'initiation à Git et Github !
 
 Ce README est le seul et unique énoncé dont vous avez besoin pour réaliser le TP.
 Prenez donc bien soin de le comprendre et de le lire **attentivement**.
